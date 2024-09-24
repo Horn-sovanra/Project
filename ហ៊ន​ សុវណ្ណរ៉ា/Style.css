@@ -1,0 +1,98 @@
+ <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        head {
+            margin-bottom: 15px;
+        }
+        head img {
+            width: 100%;
+            vertical-align: middle;
+            margin-bottom: 15px;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #8d8989;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 3px;
+            font-weight: bold;
+            margin-left: 90px;
+            margin-right: 90px;
+        }
+        nav a:hover {
+            background-color: #f82525;
+        }
+        .subjects, .content {
+            margin:left;
+        }
+        h2 {
+            color: white;
+            padding: 5px;
+            text-align: left;
+            margin-bottom: 0;
+        }
+        .section {
+            border-bottom: 1px solid #ccc;
+            padding: 10px 0;
+        }
+        .red {
+            background-color: red;
+            color: #f4f4f4;
+        }
+        .green {
+            background-color: green;
+            color: #f4f4f4;
+        }
+        .blue {
+            background-color: blue;
+            color: #f4f4f4;
+        }
+        .Black {
+            background-color: rgb(20, 23, 24);
+            color: #f4f4f4;
+        }
+        .lightblue {
+            background-color: rgb(26, 209, 233);
+        }
+        .purple {
+            background-color: rgb(216, 96, 206);
+        }
+        .yellow{
+            background-color: #dfbc0b;
+        }
+        ul {
+            list-style-type:disc;
+            padding-left: 20px;
+        }
+        ul li {
+            padding: 5px 0;
+        }
+        .content {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        .content img {
+            width: 120px;
+            margin: 10px;
+        }
+        footer {
+            background-color: #a4a1a1;
+            color: rgb(255, 254, 254);
+            padding: 3px;
+            text-align: center;
+            font-size: 0.9em;
+        }
+        .Number1{
+            width="15%"
+        }
+        tr img{
+            width: 100%;
+            
+        }
